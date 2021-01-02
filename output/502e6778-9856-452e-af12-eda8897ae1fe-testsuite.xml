@@ -1,0 +1,22 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1609609359656' stop='1609609364406'>
+    <name>Sample Test with Allure and Jenkins:</name>
+    <title>Sample Test with Allure and Jenkins:</title>
+    <test-cases>
+        <test-case start='1609609363148' status='passed' stop='1609609364398'>
+            <name>test something</name>
+            <title>test something</title>
+            <labels/>
+            <parameters/>
+            <steps>
+                <step start='1609609363157' status='passed' stop='1609609364398'>
+                    <name>I am on page "https://handyversicherung.check24.de/c24-odi-checkin/desktop/results"</name>
+                    <title>I am on page "https://handyversicherung.check24.de/c24-odi-checkin/desktop/results"</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
