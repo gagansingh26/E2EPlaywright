@@ -1,1 +1,1 @@
-# E2EPlaywright
+# E2EPlaywright with Allure
