@@ -1,1 +1,1 @@
-# E2EPlaywright with Allure
+# E2EPlaywright with Allure Reporting
